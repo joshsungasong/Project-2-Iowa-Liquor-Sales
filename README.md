@@ -1,1 +1,3 @@
-# Project-2-Iowa-Liquor-Sales
+# Project 2: Iowa Liquor Sales
+
+This project allowed me to utilize my data science toolset that has grown since my SAT/ACT project. I learned at this program, especially data cleaning/munging, exploratory data analysis, feature engineering, and model building. I was given a dataset that included sales features of Iowa liquor from the year 2015 to 2016. The scenario involved providing projections for 2016 total sales based on previous data to the Iowa State Legislature. I was able to project total sales for the hypothetical client by conducting a linear regression using features such as the number of bottles sold, volume sold and quarter one sales to predict 2015 total sales. I extrapolated the model formula to project 2016 total sales. The 2016 total sales was projected to increase that provided the client information on whether to increase or decrease the Iowa liquor tax.
